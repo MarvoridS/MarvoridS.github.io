@@ -5,7 +5,7 @@
     <link>https://example.com/post/</link>
       <atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 10 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 10 May 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Posts</title>
@@ -13,56 +13,495 @@
     </image>
     
     <item>
-      <title>Как я провела прошлую неделю</title>
-      <link>https://example.com/post/getting-started-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/</link>
-      <pubDate>Mon, 10 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/getting-started-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/</guid>
-      <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;libr&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;hello&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;На прошлой неделе я отравилась и не могла посещать занятия два дня.&lt;/li&gt;
-&lt;li&gt;Всю прошлую неделю я готовилась к контрольным по математическому анализу и математической логике из за чего плохо спала.&lt;/li&gt;
-&lt;li&gt;после того как я написала контрольные я решила отметить данное событие и порадовала себя походом в ресторан. Там я вкусно покушала и расслабилась после всей этой сумматохи&lt;/li&gt;
-&lt;/ol&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Как я провела прошлую неделю</title>
-      <link>https://example.com/post/getting-started/</link>
-      <pubDate>Fri, 10 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/getting-started/</guid>
-      <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;libr&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;hello&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;На прошлой неделе я выполняла лабораторную работу №5. При выполнении я изучила анализ файловой структуры UNIX и команды для работы с файлами и каталогами.&lt;/li&gt;
-&lt;li&gt;На прошлой неделе было 8 марта и мы с сестрой купили маме и бабушке цветы&lt;/li&gt;
-&lt;li&gt;10 числа мы с моей группой пели и танцевали на английском языке. во время выступления у нас отключились микрофоны, поэтому нам было смешно и стыдно одновременно.&lt;/li&gt;
-&lt;/ol&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>моя неделя</title>
-      <link>https://example.com/post/getting-started-%D0%B4%D1%80%D1%83%D0%B3%D0%B0%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/</link>
-      <pubDate>Fri, 10 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/getting-started-%D0%B4%D1%80%D1%83%D0%B3%D0%B0%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/</guid>
-      <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;libr&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;hello&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;На прошлой неделе меня выписали с больничного и я вернулась к учебе в университете&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Я сходила на день рождение своей подруги. Она пригласила нас играть в бильярд. До этого я не умела играть, но она меня научила и мы хорошо провели время. потом мы пошли к ней домой и покушали очень вкусный чизкейк из вкусвила и посмотрели фильм.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Я сходила домой к своей подруге, с которой мы давно не виделись. Мы посмотрели фильм который я давно хотела посмотреть, много болтали и даже успели спеть вместе.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
+      <title>Внешний курс - Четвертый этап</title>
+      <link>https://example.com/post/writing-technical-content/</link>
+      <pubDate>Fri, 10 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/writing-technical-content/</guid>
+      <description>&lt;h1 id=&#34;цель-работы&#34;&gt;Цель работы&lt;/h1&gt;
+&lt;p&gt;Изучить основы кибербезопасности&lt;/p&gt;
+&lt;h1 id=&#34;криптография-на-практике&#34;&gt;Криптография на практике&lt;/h1&gt;
+&lt;h2 id=&#34;введение-в-криптографию&#34;&gt;ВВедение в криптографию&lt;/h2&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Криптографические примитивы&#34; srcset=&#34;
+               /post/writing-technical-content/image/4.1_1_hudd279d1456b7463e36d547fbb746b774_64371_6a50970dff6ade1817d4dd20b313abd4.webp 400w,
+               /post/writing-technical-content/image/4.1_1_hudd279d1456b7463e36d547fbb746b774_64371_958e4fe9d8cafc70ed6414957a2ae5db.webp 760w,
+               /post/writing-technical-content/image/4.1_1_hudd279d1456b7463e36d547fbb746b774_64371_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/post/writing-technical-content/image/4.1_1_hudd279d1456b7463e36d547fbb746b774_64371_6a50970dff6ade1817d4dd20b313abd4.webp&#34;
+               width=&#34;738&#34;
+               height=&#34;639&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Криптографическая хэш-функция&#34; srcset=&#34;
+               /post/writing-technical-content/image/4.1_2_hu6fb4782f6439e5c7644175c960ac5599_80658_718dce91e943ae88204e14ad96e2e3ca.webp 400w,
+               /post/writing-technical-content/image/4.1_2_hu6fb4782f6439e5c7644175c960ac5599_80658_ede952714bb69f01accd473073893f07.webp 760w,
+               /post/writing-technical-content/image/4.1_2_hu6fb4782f6439e5c7644175c960ac5599_80658_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/post/writing-technical-content/image/4.1_2_hu6fb4782f6439e5c7644175c960ac5599_80658_718dce91e943ae88204e14ad96e2e3ca.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;725&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Цифровые подписи&#34; srcset=&#34;
+               /post/writing-technical-content/image/4.1_3_hu7829952976f394dc430d1e2183b8dfd1_70021_ea1ef077ada01558652068537a8237c8.webp 400w,
+               /post/writing-technical-content/image/4.1_3_hu7829952976f394dc430d1e2183b8dfd1_70021_c7cb9e2b8a9ca222e7bc8d7e0e0328b4.webp 760w,
+               /post/writing-technical-content/image/4.1_3_hu7829952976f394dc430d1e2183b8dfd1_70021_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/post/writing-technical-content/image/4.1_3_hu7829952976f394dc430d1e2183b8dfd1_70021_ea1ef077ada01558652068537a8237c8.webp&#34;
+               width=&#34;738&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Аутентификация сообщения&#34; srcset=&#34;
+               /post/writing-technical-content/image/4.1_4_hu617c23597291b7ad9d95c60640c312e8_48719_875063e779361adaa93db148e65275fb.webp 400w,
+               /post/writing-technical-content/image/4.1_4_hu617c23597291b7ad9d95c60640c312e8_48719_19dfeda70f690835c001a8b7796d0813.webp 760w,
+               /post/writing-technical-content/image/4.1_4_hu617c23597291b7ad9d95c60640c312e8_48719_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/post/writing-technical-content/image/4.1_4_hu617c23597291b7ad9d95c60640c312e8_48719_875063e779361adaa93db148e65275fb.webp&#34;
+               width=&#34;655&#34;
+               height=&#34;625&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Обмен ключам&#34; srcset=&#34;
+               /post/writing-technical-content/image/4.1_5_hu45a698aee0c06ef0158ffa6d561e11d7_62073_bd76716fa113875bc68e46ae7d3bb4c8.webp 400w,
+               /post/writing-technical-content/image/4.1_5_hu45a698aee0c06ef0158ffa6d561e11d7_62073_4d4177a863e925055bd329ca900df2ad.webp 760w,
+               /post/writing-technical-content/image/4.1_5_hu45a698aee0c06ef0158ffa6d561e11d7_62073_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/post/writing-technical-content/image/4.1_5_hu45a698aee0c06ef0158ffa6d561e11d7_62073_bd76716fa113875bc68e46ae7d3bb4c8.webp&#34;
+               width=&#34;649&#34;
+               height=&#34;650&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;цифровая-подпись&#34;&gt;Цифровая подпись&lt;/h2&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Протокол электронной подписи&#34; srcset=&#34;
+               /post/writing-technical-content/image/4.2_1_hu7bf9e33243551b28a7f799600dbfb70f_49130_afac1ffdcae9509ae9b780610bc4192c.webp 400w,
+               /post/writing-technical-content/image/4.2_1_hu7bf9e33243551b28a7f799600dbfb70f_49130_9face00b1d51c8e766fd6b0f73dfc3a2.webp 760w,
+               /post/writing-technical-content/image/4.2_1_hu7bf9e33243551b28a7f799600dbfb70f_49130_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/post/writing-technical-content/image/4.2_1_hu7bf9e33243551b28a7f799600dbfb70f_49130_afac1ffdcae9509ae9b780610bc4192c.webp&#34;
+               width=&#34;582&#34;
+               height=&#34;609&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Алгоритм верификации&#34; srcset=&#34;
+               /post/writing-technical-content/image/4.2_2_hue7b62b340bdcbf937a3498d990f1a151_59373_47d8540bac7a4f50278179c7a6e5ef6c.webp 400w,
+               /post/writing-technical-content/image/4.2_2_hue7b62b340bdcbf937a3498d990f1a151_59373_b4546a221f9ab99034ba757bbc6b34d3.webp 760w,
+               /post/writing-technical-content/image/4.2_2_hue7b62b340bdcbf937a3498d990f1a151_59373_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/post/writing-technical-content/image/4.2_2_hue7b62b340bdcbf937a3498d990f1a151_59373_47d8540bac7a4f50278179c7a6e5ef6c.webp&#34;
+               width=&#34;710&#34;
+               height=&#34;653&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Электронная подпись&#34; srcset=&#34;
+               /post/writing-technical-content/image/4.2_3_hu3047fdcec4daed3d26913d264463d566_49552_942c6400b957515e6e325f53a23ba3a9.webp 400w,
+               /post/writing-technical-content/image/4.2_3_hu3047fdcec4daed3d26913d264463d566_49552_035fb9fb0ead3aaf83997ac83917a069.webp 760w,
+               /post/writing-technical-content/image/4.2_3_hu3047fdcec4daed3d26913d264463d566_49552_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/post/writing-technical-content/image/4.2_3_hu3047fdcec4daed3d26913d264463d566_49552_942c6400b957515e6e325f53a23ba3a9.webp&#34;
+               width=&#34;511&#34;
+               height=&#34;648&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;ФНС&#34; srcset=&#34;
+               /post/writing-technical-content/image/4.2_4_hu01eeb17e990f5940d8000c65d01b281f_57995_70a15a2502cbad9e35f82fda7bd28efb.webp 400w,
+               /post/writing-technical-content/image/4.2_4_hu01eeb17e990f5940d8000c65d01b281f_57995_ca8014b086da96a4c3e6f557efe02e37.webp 760w,
+               /post/writing-technical-content/image/4.2_4_hu01eeb17e990f5940d8000c65d01b281f_57995_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/post/writing-technical-content/image/4.2_4_hu01eeb17e990f5940d8000c65d01b281f_57995_70a15a2502cbad9e35f82fda7bd28efb.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;534&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Сертификат ключа&#34; srcset=&#34;
+               /post/writing-technical-content/image/4.2_5_hu5e220878347a2f0227d874ea38f3e5bf_76009_94aae739d5981b717299ed238213941b.webp 400w,
+               /post/writing-technical-content/image/4.2_5_hu5e220878347a2f0227d874ea38f3e5bf_76009_c3a5e0d8378c74e2f841d1d33007c2f1.webp 760w,
+               /post/writing-technical-content/image/4.2_5_hu5e220878347a2f0227d874ea38f3e5bf_76009_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/post/writing-technical-content/image/4.2_5_hu5e220878347a2f0227d874ea38f3e5bf_76009_94aae739d5981b717299ed238213941b.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;486&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;электронные-платежи&#34;&gt;Электронные платежи&lt;/h2&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Платежные системы&#34; srcset=&#34;
+               /post/writing-technical-content/image/4.3_1_huf7d2611c94af07b1d60c7b4a76b8e772_68206_6255798cf6e0fc77104ebd972e46a963.webp 400w,
+               /post/writing-technical-content/image/4.3_1_huf7d2611c94af07b1d60c7b4a76b8e772_68206_bd425fb39ef8f5726b697485405523e8.webp 760w,
+               /post/writing-technical-content/image/4.3_1_huf7d2611c94af07b1d60c7b4a76b8e772_68206_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/post/writing-technical-content/image/4.3_1_huf7d2611c94af07b1d60c7b4a76b8e772_68206_6255798cf6e0fc77104ebd972e46a963.webp&#34;
+               width=&#34;602&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Многофакторная аутентификация&#34; srcset=&#34;
+               /post/writing-technical-content/image/4.3_2_hu0b33bd28ebb9146a7d58f4f304386700_75988_6adafad1174f4d832096230b327fb837.webp 400w,
+               /post/writing-technical-content/image/4.3_2_hu0b33bd28ebb9146a7d58f4f304386700_75988_a9f49b12b41a9cba096cba88445f30a4.webp 760w,
+               /post/writing-technical-content/image/4.3_2_hu0b33bd28ebb9146a7d58f4f304386700_75988_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/post/writing-technical-content/image/4.3_2_hu0b33bd28ebb9146a7d58f4f304386700_75988_6adafad1174f4d832096230b327fb837.webp&#34;
+               width=&#34;627&#34;
+               height=&#34;723&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Онлайн платежи&#34; srcset=&#34;
+               /post/writing-technical-content/image/4.3_3_hue91ad69417886296fec6666e35c64415_70452_818292daead6273653b178517659c291.webp 400w,
+               /post/writing-technical-content/image/4.3_3_hue91ad69417886296fec6666e35c64415_70452_96bdcbdc3df751408f9c49b5510bc119.webp 760w,
+               /post/writing-technical-content/image/4.3_3_hue91ad69417886296fec6666e35c64415_70452_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/post/writing-technical-content/image/4.3_3_hue91ad69417886296fec6666e35c64415_70452_818292daead6273653b178517659c291.webp&#34;
+               width=&#34;754&#34;
+               height=&#34;668&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;блокчейн&#34;&gt;Блокчейн&lt;/h2&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Криптографическая хэш-функция&#34; srcset=&#34;
+               /post/writing-technical-content/image/4.4_1_hucd45cbdb36c34112b37b8a2aad77ec13_62366_3baade4ce702daa7a95217def03dea84.webp 400w,
+               /post/writing-technical-content/image/4.4_1_hucd45cbdb36c34112b37b8a2aad77ec13_62366_f5728703a796276efdfca6905b1a62e4.webp 760w,
+               /post/writing-technical-content/image/4.4_1_hucd45cbdb36c34112b37b8a2aad77ec13_62366_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/post/writing-technical-content/image/4.4_1_hucd45cbdb36c34112b37b8a2aad77ec13_62366_3baade4ce702daa7a95217def03dea84.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;613&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Консенсус в некоторых системах&#34; srcset=&#34;
+               /post/writing-technical-content/image/4.4_2_hu9a5e0913b15672b01eb3ea3b2ef54517_64566_833d781d34192e0cc661d2c5da02290b.webp 400w,
+               /post/writing-technical-content/image/4.4_2_hu9a5e0913b15672b01eb3ea3b2ef54517_64566_6c806987028a9b057bb54944fd66b6b8.webp 760w,
+               /post/writing-technical-content/image/4.4_2_hu9a5e0913b15672b01eb3ea3b2ef54517_64566_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/post/writing-technical-content/image/4.4_2_hu9a5e0913b15672b01eb3ea3b2ef54517_64566_833d781d34192e0cc661d2c5da02290b.webp&#34;
+               width=&#34;600&#34;
+               height=&#34;730&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Секретные ключи&#34; srcset=&#34;
+               /post/writing-technical-content/image/4.4_3_hu35481d64632feb3b3b6309d8deb87104_56269_181379ff2147971a40cfcc5b582e1a71.webp 400w,
+               /post/writing-technical-content/image/4.4_3_hu35481d64632feb3b3b6309d8deb87104_56269_d856951f6192bc6bec64a0b0351e0d17.webp 760w,
+               /post/writing-technical-content/image/4.4_3_hu35481d64632feb3b3b6309d8deb87104_56269_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/post/writing-technical-content/image/4.4_3_hu35481d64632feb3b3b6309d8deb87104_56269_181379ff2147971a40cfcc5b582e1a71.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;646&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h1 id=&#34;выводы&#34;&gt;Выводы&lt;/h1&gt;
+&lt;p&gt;Сертификат не выдается.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Окончание курса&#34; srcset=&#34;
+               /post/writing-technical-content/image/5_hue818bdd475dd890c0ea77e6498be4622_62202_de9ae643cfa4395978913f535e2f09fc.webp 400w,
+               /post/writing-technical-content/image/5_hue818bdd475dd890c0ea77e6498be4622_62202_eb2925da3959fd17306d55f8339ab2e4.webp 760w,
+               /post/writing-technical-content/image/5_hue818bdd475dd890c0ea77e6498be4622_62202_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/post/writing-technical-content/image/5_hue818bdd475dd890c0ea77e6498be4622_62202_de9ae643cfa4395978913f535e2f09fc.webp&#34;
+               width=&#34;670&#34;
+               height=&#34;521&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
 </description>
     </item>
     
@@ -126,167 +565,1492 @@
     </item>
     
     <item>
-      <title>Система контроля версий git</title>
-      <link>https://example.com/post/writing-technical-content/</link>
+      <title>Внешний курс - Первый и второй этап</title>
+      <link>https://example.com/post/first/index1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/writing-technical-content/</guid>
-      <description>&lt;p&gt;Эта глава о том, как начать работу с Git. Вначале изучим основы систем контроля версий, затем перейдём к тому, как запустить Git на вашей ОС и окончательно настроить для работы. В конце главы вы уже будете знать, что такое Git и почему им следует пользоваться, а также получите окончательно настроенную для работы систему.&lt;/p&gt;
-&lt;h2 id=&#34;examples&#34;&gt;Examples&lt;/h2&gt;
-&lt;p&gt;Что такое «система контроля версий» и почему это важно? Система контроля версий — это система, записывающая изменения в файл или набор файлов в течение времени и позволяющая вернуться позже к определённой версии. Для контроля версий файлов в этой книге в качестве примера будет использоваться исходный код программного обеспечения, хотя на самом деле вы можете использовать контроль версий практически для любых типов файлов.&lt;/p&gt;
-&lt;p&gt;Если вы графический или web-дизайнер и хотите сохранить каждую версию изображения или макета (скорее всего, захотите), система контроля версий (далее VCS) — как раз то, что нужно. Она позволяет вернуть файлы к состоянию, в котором они были до изменений, вернуть проект к исходному состоянию, увидеть изменения, увидеть, кто последний менял что-то и вызвал проблему, кто поставил задачу и когда и многое другое. Использование VCS также значит в целом, что, если вы сломали что-то или потеряли файлы, вы спокойно можете всё исправить. В дополнение ко всему вы получите всё это без каких-либо дополнительных усилий.
-Локальные системы контроля версий&lt;/p&gt;
-&lt;p&gt;Многие люди в качестве метода контроля версий применяют копирование файлов в отдельный каталог (возможно даже, каталог с отметкой по времени, если они достаточно сообразительны). Данный подход очень распространён из-за его простоты, однако он невероятно сильно подвержен появлению ошибок. Можно легко забыть в каком каталоге вы находитесь и случайно изменить не тот файл или скопировать не те файлы, которые вы хотели.&lt;/p&gt;
-&lt;p&gt;Для того, чтобы решить эту проблему, программисты давным-давно разработали локальные VCS с простой базой данных, которая хранит записи о всех изменениях в файлах, осуществляя тем самым контроль ревизий.&lt;/p&gt;
-&lt;p&gt;Одной из популярных VCS была система RCS, которая и сегодня распространяется со многими компьютерами. RCS хранит на диске наборы патчей (различий между файлами) в специальном формате, применяя которые она может воссоздавать состояние каждого файла в заданный момент времени.
-Централизованные системы контроля версий&lt;/p&gt;
-&lt;p&gt;Следующая серьёзная проблема, с которой сталкиваются люди, — это необходимость взаимодействовать с другими разработчиками. Для того, чтобы разобраться с ней, были разработаны централизованные системы контроля версий (Centralized Version Control System, далее CVCS). Такие системы, как CVS, Subversion и Perforce, используют единственный сервер, содержащий все версии файлов, и некоторое количество клиентов, которые получают файлы из этого централизованного хранилища. Применение CVCS являлось стандартом на протяжении многих лет.&lt;/p&gt;
-&lt;p&gt;Такой подход имеет множество преимуществ, особенно перед локальными VCS. Например, все разработчики проекта в определённой степени знают, чем занимается каждый из них. Администраторы имеют полный контроль над тем, кто и что может делать, и гораздо проще администрировать CVCS, чем оперировать локальными базами данных на каждом клиенте.&lt;/p&gt;
-&lt;p&gt;Несмотря на это, данный подход тоже имеет серьёзные минусы. Самый очевидный минус — это единая точка отказа, представленная централизованным сервером. Если этот сервер выйдет из строя на час, то в течение этого времени никто не сможет использовать контроль версий для сохранения изменений, над которыми работает, а также никто не сможет обмениваться этими изменениями с другими разработчиками. Если жёсткий диск, на котором хранится центральная БД, повреждён, а своевременные бэкапы отсутствуют, вы потеряете всё — всю историю проекта, не считая единичных снимков репозитория, которые сохранились на локальных машинах разработчиков. Локальные VCS страдают от той же самой проблемы: когда вся история проекта хранится в одном месте, вы рискуете потерять всё.
-Распределённые системы контроля версий&lt;/p&gt;
-&lt;p&gt;Здесь в игру вступают распределённые системы контроля версий (Distributed Version Control System, далее DVCS). В DVCS (таких как Git, Mercurial, Bazaar или Darcs) клиенты не просто скачивают снимок всех файлов (состояние файлов на определённый момент времени) — они полностью копируют репозиторий. В этом случае, если один из серверов, через который разработчики обменивались данными, умрёт, любой клиентский репозиторий может быть скопирован на другой сервер для продолжения работы. Каждая копия репозитория является полным бэкапом всех данных.
-Более того, многие DVCS могут одновременно взаимодействовать с несколькими удалёнными репозиториями, благодаря этому вы можете работать с различными группами людей, применяя различные подходы единовременно в рамках одного проекта. Это позволяет применять сразу несколько подходов в разработке, например, иерархические модели, что совершенно невозможно в централизованных системах.&lt;/p&gt;
+      <guid>https://example.com/post/first/index1/</guid>
+      <description>&lt;h1 id=&#34;цель-работы&#34;&gt;Цель работы&lt;/h1&gt;
+&lt;p&gt;Изучить основы кибербезопасности&lt;/p&gt;
+&lt;h1 id=&#34;защита-пктелефона&#34;&gt;Защита ПК/телефона&lt;/h1&gt;
+&lt;h2 id=&#34;шифрование-диска&#34;&gt;Шифрование диска&lt;/h2&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;image/3.1_1.png&#34; alt=&#34;Загрузочный сектор диска&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;image/3.1_2.png&#34; alt=&#34;Шифрование диска&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;image/3.1_3.png&#34; alt=&#34;Жесткий диск&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;пароли&#34;&gt;Пароли&lt;/h2&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;image/3.2_1.png&#34; alt=&#34;Пароли&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;image/3.2_2.png&#34; alt=&#34;Хранение паролей&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;image/3.2_3.png&#34; alt=&#34;Капча&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;image/3.2_4.png&#34; alt=&#34;Хэширование паролей&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;image/3.2_5.png&#34; alt=&#34;Стойкость паролей&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;image/3.2_6.png&#34; alt=&#34;Меры защиты паролей&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;фишинг&#34;&gt;Фишинг&lt;/h2&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;image/3.3_1.png&#34; alt=&#34;Фишинговые ссылки&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;image/3.3_2.png&#34; alt=&#34;Фишинговый имейл&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;вирусыпримеры&#34;&gt;Вирусы.Примеры&lt;/h2&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;image/3.4_1.png&#34; alt=&#34;Спуфинг&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;image/3.4_2.png&#34; alt=&#34;Вирус-троян&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;безопасность-мессенджеров&#34;&gt;Безопасность мессенджеров&lt;/h2&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;image/3.5_1.png&#34; alt=&#34;Мессенджер Signal&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;image/3.5_2.jpg&#34; alt=&#34;Сквозное шифрование&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h1 id=&#34;выводы&#34;&gt;Выводы&lt;/h1&gt;
+&lt;p&gt;Мы узнали о защите ПК/телефона.&lt;/p&gt;
+&lt;p&gt;Сертификат не выдается.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;image/5.png&#34; alt=&#34;Окончание курса&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Языки научного программирования</title>
-      <link>https://example.com/post/writing-technical-content-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/</link>
+      <title>Внешний курс - Первый и второй этап</title>
+      <link>https://example.com/post/writing-technical-content2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/writing-technical-content-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/</guid>
-      <description>&lt;h2 id=&#34;examples&#34;&gt;Examples&lt;/h2&gt;
-&lt;p&gt;Формализованный язык, предназначенный для описания программ и алгоритмов решения задач на ЭВМ. Языки программирования являются искусственными. В них синтаксис и семантика строго определены. Поэтому они не допускают свободного толкования выражения, что характерно для естественного языка. Языки программирования разделяются на две основные категории языки высокого уровня и языки низкого уровня :&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;Язык высокого уровня [high-level language] - Язык программирования, средства которого обеспечивают описание задачи в наглядном, легко воспринимаемом виде, удобном для программиста. Он не зависит от внутренних машинных кодов ЭВМ любого типа, поэтому программы, написанные на языках высокого уровня, требуют перевода в машинные коды программами транслятора либо интерпретатора. К языкам высокого уровня относят Фортран , ПЛ/1 , Бейсик , Паскаль , Си , Ада и др.
+      <guid>https://example.com/post/writing-technical-content2/</guid>
+      <description>&lt;h1 id=&#34;цель-работы&#34;&gt;Цель работы&lt;/h1&gt;
+&lt;p&gt;Изучить основы кибербезопасности&lt;/p&gt;
+&lt;h1 id=&#34;выполнение-лабораторной-работы&#34;&gt;Выполнение лабораторной работы&lt;/h1&gt;
+&lt;h2 id=&#34;прохождение-курса&#34;&gt;Прохождение курса&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Введение в курс&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h1 id=&#34;безопасность-в-сети&#34;&gt;Безопасность в сети&lt;/h1&gt;
+&lt;h2 id=&#34;21-как-работает-интернет-базовые-сетевые-протоколы&#34;&gt;2.1 Как работает интернет: базовые сетевые протоколы&lt;/h2&gt;
+&lt;p&gt;
 
-Язык низкого уровня , [low-level language ] - Язык программирования, предназначенный для определенного типа ЭВМ и отражающий его внутренний машинный код (см. ниже также “машинный язык “, “ машинно-ориентированный язык “ и “ язык ассемблера “).
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;Различают также следующие виды языков программирования:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;Алгоритмический язык [algorithmic language ] - Совокупность символов, соглашений и правил, используемых для однозначного описания алгоритмов и обычно являющаяся часть языка программирования ;
 
-Неалгоритмический язык [nonalgorithmic language] - Язык программирования, тексты которого не содержат указаний на порядок выполнения операций и служат лишь исходным материалом для синтеза алгоритма решения задачи;
 
-Формальный язык [formal language] –
 
-Язык программирования, построенный по правилам некоторого логического исчисления или формальной грамматики [formal grammar ], представляющей собой систему правил построения в заданном алфавите конечных знаковых последовательностей, множество которых образует формальный язык;
 
-См. “алгоритмический язык “;
 
-Исходный язык [source language] - Язык программирования, на котором написана программа, в отличие от машинного языка, на котором программы выполняются компьютером. Исходные языки классифицируются на языки высокого уровня и языки низкого уровня .
 
-Машинный ( абсолютный ) язык , язык ЭВМ [computer (machine) language] - Язык программирования, предназначенный для представления программ в форме, обеспечивающей возможность их выполнения техническими средствами;
 
-Машинозависимый ( машинно-ориентированный ) язык , машинозависимый язык программирования [computer-sensitive (computer-oriented) language] - Язык программирования, учитывающий структуру и характеристики ЭВМ определенного типа или конкретной ЭВМ;
 
-Машиннонезависимый язык [machine-independent language] - Язык программирования, структура и средства которого не связаны ни с какой конкретной ЭВМ и позволяют выполнять составленные на нем программы на любой ЭВМ, снабженной трансляторами (см. ниже) с этого языка;
 
-Символический язык , язык символического кодирования [symbolic language] - Язык программирования, ориентированный на конкретные ЭВМ и основанный на кодировании машинных операций при помощи определенного набора символов;
 
-Гибридный ( комбинированный ) язык [hibrid language] - Язык программирования, использующий также средства другого языка;
 
-Графический язык [graphic language ] - Язык, предназначенный для написания программ машинной графики и пользования ими.
 
-Базовый язык [base language] –
 
-Машинный язык , общий для семейства ЭВМ;
 
-Язык программирования в СУБД с автономным языком .
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Протокол прикладного уровня&#34; srcset=&#34;
+               /post/writing-technical-content2/image/2.1_1_hu279796066b9adec406f65b6aff58fbcc_110460_8132fe11beb5ab5add557b65fda2dd3f.webp 400w,
+               /post/writing-technical-content2/image/2.1_1_hu279796066b9adec406f65b6aff58fbcc_110460_3a0b6dffd9b370fca6a4288aa46a6ac9.webp 760w,
+               /post/writing-technical-content2/image/2.1_1_hu279796066b9adec406f65b6aff58fbcc_110460_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/post/writing-technical-content2/image/2.1_1_hu279796066b9adec406f65b6aff58fbcc_110460_8132fe11beb5ab5add557b65fda2dd3f.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;402&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
 
-Общий язык [common language] - Машинный язык, общий для группы ЭВМ и используемых ими внешних устройств;
 
-Эталонный язык [reference language ] - Язык, являющийся основой для всех его конкретных версий, являющихся вариантами адаптации эталонного языка к определенным условиям применения и назначения;
 
-Язык ассемблера , ассемблер [assembler language ] - Универсальный язык программирования , относящийся к категории языков низкого уровня, структура которого определяется форматами команд, данными машинного языка и архитектурой ЭВМ. Используется программистами в тех случаях, когда невозможно применение языка высокого уровня или требуются эффективные программы в машинных кодах.
 
-Декларативный ( непроцедурный ) язык [declararative (nonprocedural) language] - Язык программирования, который позволяет задавать связи и отношения между объектами и величинами, но не определяет последовательность выполнения действий (например, языки Пролог , QBE);
 
-Императивный ( процедурный ) язык [imperative language] - Язык программирования, который позволяет в явной форме (при помощи задания выполняемых операторов) определять действия и порядок (последовательность) их выполнения;
 
-Язык функционального программирования , функциональный язык [functional language] - Декларативный язык программирования, основанный на понятии функций, которые задают зависимость, но не определяют порядок вычислений.
 
-Специализированный язык [special language] - Язык программирования, ориентированный на решение определенного круга задач;
 
-Язык описания страниц [PDL - Page Description Language] - Специализированный язык, предназначенный для печатающих устройств. Предусматривает возможность использования изображений в формате, независимом от параметров устройства отображения. Наиболее известным языком такого типа является PostScript.
 
-Автономный язык [freestanding language] - Специализированный язык высокого уровня, в замкнутых СУБД (“ СУБД с автономным языком “);
 
-Язык конструирования интерактивных технологий - В СУБД - язык, предназначенный для описания технологических процессов обработки данных с учетом разделения характера операций по их типам, а также обеспечения диалога с администратором системы;
 
-Язык манипулирования данными , ЯМД [DML - Data Manipulation Language] - В СУБД - язык, предназначенный для обращения к базе данных и выполнения поиска, чтения и модификации ее записей;
 
-Язык обработки списков [list language] - Специализированный язык, предназначенный для описания процессов обработки данных, представленных в виде списков объектов ;
 
-Язык описания данных [DDL - Data Description Language ] - Язык, предназначенный для описания “концептуальной схемы” базы данных ;
 
-Язык описания хранения данных [DSDL - Data Storage Description Language ] - Язык, предназначенный для описания физической структуры ( схемы ) базы данных ;
 
-Язык описания страниц [page description language] Система для кодировки документов, которая позволяет точно описать ее внешний вид после подготовки к выводу на печать или на дисплей. Примером использования такого языка служит PDF (Portable Document Format), разработанный Adobe для хранения и представления изображений страниц.
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Протокол ТСР&#34; srcset=&#34;
+               /post/writing-technical-content2/image/2.1_2_hu6be6689b6241594c6e3ddbac4f210c07_110988_6db056d6737cfe36e122bfc3bd1362b1.webp 400w,
+               /post/writing-technical-content2/image/2.1_2_hu6be6689b6241594c6e3ddbac4f210c07_110988_54dad277627cff15e679edaa54f40b3d.webp 760w,
+               /post/writing-technical-content2/image/2.1_2_hu6be6689b6241594c6e3ddbac4f210c07_110988_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/post/writing-technical-content2/image/2.1_2_hu6be6689b6241594c6e3ddbac4f210c07_110988_6db056d6737cfe36e122bfc3bd1362b1.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;436&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
 
-Язык представления знаний [KRL - Knowledge Representation Language] - Декларативный или декларативно-процедурный язык, предназначенный для представления знаний в памяти ЭВМ (например, языки Лисп и Пролог );
 
-Язык публикаций [publication language ] - Язык, используемый для публикации алгоритмов и программ;
 
-Язык спецификаций [specification language] - Декларативный язык для задания спецификаций программ ;
 
-Проблемно-ориентированный язык [problem-oriented language] - Язык программирования, предназначенный для решения определенного класса задач (проблем);
 
-Процедурный ( процедурно-ориентированный ) язык [procedure-orinted language] - Проблемно-ориентированный язык, который облегчает выражение процедуры, как точного алгоритма;
 
-Язык реального времени [real-time language] - Язык, используемый для программирования задач, в которых критическим является время реакции ЭВМ на сигналы, требующие от нее немедленных действий (например, язык Ада );
 
-Язык управления пакетом [batch control language ] - Набор команд , директив , квалификаторов и правил их использования для управления пакетной обработкой данных;
 
-Язык управления заданиями [job-control language ] - Язык, на котором записывается последовательность команд, управляющих выполнением задания. В отличие от обычных языков программирования, в которых объектами описания являются элементы, связанные с решением отдельной задачи, в языках управления заданиями преобразуемыми объектами являются целые программы и выходные потоки данных, обработанных этими программами.
 
-Общесетевой командный язык [CNCL - Common Network - Command language ] - Стандартный в рамках вычислительной сети язык диалогового (интерактивного) поиска данных, предназначенный для унификации работы пользователей с неоднородными базами данных, управляемых различными СУБД ;
 
-Системный язык [system language ] - Язык общения оператора ЭВМ с вычислительной системой, представляющий собой совокупность команд оператора и сообщений системы;
 
-Язык общего назначения , универсальный язык [universal programming language] - Язык программирования, ориентированный на решение задач практически из любой области и объединяющий на единой методической основе наиболее существенные свойства и средства современных машино- и проблемноориентированных языков программирования (например, язык ассемблера , ПЛ/1 и др.);
 
-Язык ориентированный на пользователя [user-oriented language ] - Слабоформализованный язык программирования, близкий к естественному языку ;
 
-Язык меню [menu language ] - Язык диалога пользователя с системой, основанный на использовании меню .
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;Разработки и наименования языков программирования&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;Ада [Ada] - Язык программирования высокого уровня, ориентированный на применение в системах реального времени и предназначенный для автоматизации задач управления процессами и/или устройствами, например, в бортовых (корабельных, авиационных и др.) ЭВМ. Разработан по инициативе министерства обороны США в 1980-х гг. Назван в честь английского математика Ады Августы Байрон ( Лавлейс), жившей в 1815-1851 гг.
 
-Алгол [ALGOL - ALGOrithmic Language] - Язык программирования высокого уровня, ориентированный на описание алгоритмов решения вычислительных задач. Был создан в 1958 г. специалистами западно-европейских стран для научных исследований. Версия этого языка Алгол-60 была принята Международной конференцией в Париже (1960 г.) и широко использовалась на ЭВМ 2-го поколения. Версия Алгол-68, разработанная группой специалистов Международной федерации по обработке информации ( ИФИП) в 1968 г., получила статус международного универсального языка программирования, ориентированного на решение не только вычислительных, но и информационных задач. Хотя в настоящее время Алгол практически не используется, он послужил основой или оказал существенное влияние на разработку более современных языков, например, Ада , Паскаль и др.
 
-Бейсик [BASIC - Beginner’s All-purpose Symbolic Instruction Code] - Язык программирования высокого уровня , разработанный в 1963 - 1964 гг. в Дартмутском колледже Томасом Куртом и Джоном Кемени . Первоначально предназначался для обучения программированию. Отличается простотой, легко усваивается начинающими программистами благодаря наличию упрощенных конструкций языка Фортран и встроенных математических функций, алгоритмов и операторов. Существует множество различных версий Бейсика, которые не полностью совместимы друг с другом. Некоторые реализации Бейсика включают средства обработки данных и наборов данных. Большинство версий Бейсика используют интерпретатор, который преобразует его компоненты в машинный код и позволяет запускать программы без промежуточной трансляции. Некоторые более совершенные версии Бейсика позволяют использовать для этой цели трансляторы. На IBM PC широко используются Quick Basic фирмы Microsoft, Turbo Basic фирмы Borland и Power Basic (усовершенствованная версия Turbo Basic, распространяемая фирмой Spectra Publishing ). В начале 1999 г. фирма Microsoft выпустила версию языка Visual Basic 6.0 (VB 6.0), предназначенного для создания многокомпонентных программных приложений для систем уровня предприятий. Подробнее о нем см. [429].
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Адреса IPv-4&#34; srcset=&#34;
+               /post/writing-technical-content2/image/2.1_3_hu78e665fef179fd7c28baf9e55a5e7b44_114979_7d21c89708a276333fe387fcc1bdbe71.webp 400w,
+               /post/writing-technical-content2/image/2.1_3_hu78e665fef179fd7c28baf9e55a5e7b44_114979_98fd186dfa2e70c569e4b1ba57c42572.webp 760w,
+               /post/writing-technical-content2/image/2.1_3_hu78e665fef179fd7c28baf9e55a5e7b44_114979_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/post/writing-technical-content2/image/2.1_3_hu78e665fef179fd7c28baf9e55a5e7b44_114979_7d21c89708a276333fe387fcc1bdbe71.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;472&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
 
-Кобол [COBOL - COmmon Buisiness-Oriented Language] - Язык программирования высокого уровня, разработанный в конце 1950-х гг. ассоциацией КАДАСИЛ для решения коммерческих и экономических задач. Отличается развитыми средствами работы с файлами. Поскольку команды программ, написанных на этом языке, активно используют обычную английскую лексику и синтаксис, Кобол рассматривается как один из самых простых языков программирования. В настоящее время используется для решения экономических, информационных и других задач.
 
-Лисп [LISP - LISt Processing] - Алгоритмический язык, разработанный в 1960 г. Дж. Маккарти и предназначенный для манипулирования перечнями элементов данных. Используется преимущественно в университетских лабораториях США для решения задач, связанных с искусственным интеллектом. В Европе для работ по искусственному интеллекту предпочитают использовать Пролог .
 
-ЛОГО [LOGO от греч. logos - слово ] - Язык программирования высокого уровня, разработан в Массачусетском технологическом институте в ориентировочно 1970 г. для целей обучения математическим понятиям. Используется также в школах и пользователями ПЭВМ при написании программ для создания чертежей на экране монитора и управления перьевым графопостроителем .
 
-Паскаль [PASCAL - акроним с французского - Program Applique a la Selection et la Compilation Automatique de la Litterature] - Процедурно-ориентированный язык программирования высокого уровня, разработанный в конце 1960-х гг. Никлаусом Виртом, первоначально для обучения программированию в университетах. Назван в честь французского математика XVII века Блеза Паскаля. В своей начальной версии Паскаль имел довольно ограниченные возможности, поскольку предназначался для учебных целей, однако последующие его доработки позволили сделать его хорошим универсальным языком, широко используемым в том числе для написания больших и сложных программ. Существует ряд версий языка (например, ETH Pascal, USD Pascal, Turbo Pascal ) и систем программирования на этом языке для разных типов ЭВМ. Для IBM PC наиболее популярной является система Turbo Pascal фирмы Borland (США). Подробнее о языках Пскаль и их развитии см. [653].
 
-Пролог [PROLOG - PROgramming in LOGic] - Язык программирования высокого уровня декларативного типа (см. выше декларативное программирование), предназначенный для разработки систем и программ искусственного интеллекта. Относится к категории языков пятого поколения. Был разработан в 1971 г. в университете г. Марсель (Франция), относится к числу широко используемых и постоянно развиваемых языков. Последняя его версия Prolog 6.0. Подробнее см. [561].
 
-Си [C ] - Многоцелевой язык программирования высокого уровня, разработанный Денисом Ритчи в начале 1970-х гг. на базе языка BCPL. Используется на миниЭВМ и ПЭВМ. Является базовым языком операционной системы Unix , однако применяется и вне этой системы, для написания быстродействующих и эффективных программных продуктов, включая и операционные системы. Для IBM PC имеется ряд популярных версий языка Си, в том числе - Turbo C (фирмы Borland), Microsoft C и Quick C ( фирмы Microsoft ), а также Zortech C (фирмы Symantec ). Многие из указанных версий обеспечивают также работу с Си и Си++ (см. ниже).
 
-Си++ [C++] - Язык программирования высокого уровня, созданный Бьярном Страустрапом на базе языка Си. Является его расширенной версией, реализующей принципы объектно-ориентированного программирования. Используется для создания сложных программ. Для IBM PC наиболее популярной является система Turbo C++ фирмы Borland (США).
 
-C# (C Sharp) – “ Си Шарп ”: объектно-ориентированный яык программирования, о разработке которого в 2000 г. объявила фирма Microsoft . По своему характеру он напоминает языки C++ и Java и предназначен для разработчиков программ, использующих языки C и С++ для того, чтобы они могли более эффективно создавать Интернет-приложения. Указывается, что C # будет тесно интегрирован с языком XML . Подробнее см. – [600], а также на Web -сайте фирмы Microsoft (http://msdn.microsoft.com).
 
-Фортран [FORTRAN - FORmula TRANslation] - Язык программирования высокого уровня, разработанный фирмой IBM в 1956 г. для описания алгоритмов решения вычислительных задач. Относится к категории процедурно-ориентированных языков. Наиболее распространенными версиями этого языка являются Фортран IV, Фортран 77 и Фортран 90. Используется на всех классах ЭВМ. Последняя его версия также применяется на ЭВМ с параллельной архитектурой .
 
-AppleScript - Машинозависимый (ориентирован на работу с ПЭВМ типа Макинтош фиры Apple ) близкий к естественному английскому язык программирования, предназначенный для автоматизации повторяющихся задач, преимущественно связанных с процессами компьютерной графики (в том числе - обработки результатов сканирования, ввода изображений, цветоделения, составления каталогов, передачи печатных документов в World Wide Web и др.). Планировалась разработка версии этого языка для PowerPC. Подробнее о нем см. [198].
 
-Clipper - Язык высокого уровня и система программирования, предназначенные для разработки программ для ПЭВМ, преимущественно - систем управления большими объемами данных (см. “СУБД “ ). Владельцем и разработчиком языка и системы Clipper является фирма Nantucket (США). Начало работ по их созданию связано с разработкой компилятора для dBase (см. ниже) и относится к 1984 г. (год основания фирмы Nantucket Барри Ребеллом и Брайаном Расселом). Первые программные продукты Clipper - ClipperWinter’84 (май 1985 г.), ClipperWinter’85 (январь 1986 г.), McMax (версия для ПК Macintosh - сентябрь 1986 г.) и ClipperSummer’87 (декабрь 1987 г.). Летом 1990 г. была выпущена версия языка Clipper 5.0, получившая широкое распространение в России. Она реализует концепцию открытой архитектуры и представляет собой язык, компилятор и систему разработки программ для ПЭВМ, включающую набор команд и функций, препроцессор , компоновщик, набор утилит (в т.ч. отладчик и встроенную документацию) [173].
 
-dBASE -
 
-Язык программирования высокого уровня, предназначенный для создания пакетов прикладных программ, связанных с манипулированием большими объемами данных (Xbase). Первая версия языка dBASE II вышла в свет в начале 1980-х гг., в августе 1994 г. была выпущена версия dBASE 5.0 для Windows (подробнее см. [79]);
 
-Семейство программ для ПЭВМ, предназначенное для манипулирования большими объемами данных.
 
-FoxPro - Объектно-ориентированный язык, предназначенный для создания пакетов прикладных программ, в том числе для современных операционных систем, например - версия этого языка FoxPro for Windows . Об одной из последних версий этого языка - Visual FoxPro 3.0 фирмы Microsoft см. в [84].
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;DNS сервер&#34; srcset=&#34;
+               /post/writing-technical-content2/image/2.1_4_hu88c3357078e45fc191c4c889c28b4897_103715_3479b4120a3e285588308f5a8ee49861.webp 400w,
+               /post/writing-technical-content2/image/2.1_4_hu88c3357078e45fc191c4c889c28b4897_103715_a97c9eb83e50db565bd39ce471111281.webp 760w,
+               /post/writing-technical-content2/image/2.1_4_hu88c3357078e45fc191c4c889c28b4897_103715_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/post/writing-technical-content2/image/2.1_4_hu88c3357078e45fc191c4c889c28b4897_103715_3479b4120a3e285588308f5a8ee49861.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;569&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
 
-SGML (Standardized General Markup Language) – “ Стандартизованный обобщенный язык разметки”. Разработка языка была вызвана необходимостью создания средств описания документов и правил их построения. Для задания структуры документа используются специальные метки – “теги”, которые отделяют друг от друга элементы документа и файлы определения типа документа (Document Type Definition – DTD ), выполняющие функции “грамматики” и определяющие структуру и содержание каждого элемента в документе. Принят ISO в качестве стандарта в 80-е годы. Сложность этого языка помешала ему лечь в основу первой спецификации для Web – HTML , который стал производным от SGML [336].
 
-html, html (HyperText Markup Language) - “ Язык разметки гипертекста” разработан в исследовательском центре CERN в 1992 г. Он является производным от SGML (см. ниже). html устанавливает формат гипермедийных документов, в сети WWW . HTML-документы представляют собой ASCII -файлы, доступные для просмотра и редактирования в любом текстовом редакторе. Отличием от обычного текстового файла является наличие в HTML-документах специальных команд - тэгов, которые указывают правила форматирования документа [114, 141, 329, 336]. Полное описание html можно получить по сетевому адресу: &amp;lt;http://www. access.digex.net/^werbach/barebone.html&amp;gt;.
-&lt;/code&gt;&lt;/pre&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Протокол в модели ТСР/IP &#34; srcset=&#34;
+               /post/writing-technical-content2/image/2.1_5_hu986e54eeb7829be339c468e9aa21f7e2_107782_e2a6fd5ff4b20ccf389d3c35f6edf416.webp 400w,
+               /post/writing-technical-content2/image/2.1_5_hu986e54eeb7829be339c468e9aa21f7e2_107782_ac0c775637dbd5f923e9ea7d3afa8842.webp 760w,
+               /post/writing-technical-content2/image/2.1_5_hu986e54eeb7829be339c468e9aa21f7e2_107782_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/post/writing-technical-content2/image/2.1_5_hu986e54eeb7829be339c468e9aa21f7e2_107782_e2a6fd5ff4b20ccf389d3c35f6edf416.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;413&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Протокол htpl&#34; srcset=&#34;
+               /post/writing-technical-content2/image/2.1_6_hu401a30ac3f9eeaa1065378d13dd5ed0b_105552_3937726ce96871ed8ea9126dfa86d878.webp 400w,
+               /post/writing-technical-content2/image/2.1_6_hu401a30ac3f9eeaa1065378d13dd5ed0b_105552_ba7b2cb9b8aaf6621c51b026f12935c8.webp 760w,
+               /post/writing-technical-content2/image/2.1_6_hu401a30ac3f9eeaa1065378d13dd5ed0b_105552_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/post/writing-technical-content2/image/2.1_6_hu401a30ac3f9eeaa1065378d13dd5ed0b_105552_3937726ce96871ed8ea9126dfa86d878.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;430&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Протокол https&#34; srcset=&#34;
+               /post/writing-technical-content2/image/2.1_7_hu8047b041194d064d8fdf37f873b3fba1_108603_2401ef2a323ec878c386c996d02e3796.webp 400w,
+               /post/writing-technical-content2/image/2.1_7_hu8047b041194d064d8fdf37f873b3fba1_108603_e2a406aa1287cf5d19905aeee313a5fb.webp 760w,
+               /post/writing-technical-content2/image/2.1_7_hu8047b041194d064d8fdf37f873b3fba1_108603_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/post/writing-technical-content2/image/2.1_7_hu8047b041194d064d8fdf37f873b3fba1_108603_2401ef2a323ec878c386c996d02e3796.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;376&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Протокол TLS&#34; srcset=&#34;
+               /post/writing-technical-content2/image/2.1_8_huf2924f45c42569e2e5ca832b1e012ffb_81165_43a70c96da57d4006f491c2c7bec8c01.webp 400w,
+               /post/writing-technical-content2/image/2.1_8_huf2924f45c42569e2e5ca832b1e012ffb_81165_48f432fd9afdcfa7b30869d6372cbd8a.webp 760w,
+               /post/writing-technical-content2/image/2.1_8_huf2924f45c42569e2e5ca832b1e012ffb_81165_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/post/writing-technical-content2/image/2.1_8_huf2924f45c42569e2e5ca832b1e012ffb_81165_43a70c96da57d4006f491c2c7bec8c01.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;462&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Протокол TLS&#34; srcset=&#34;
+               /post/writing-technical-content2/image/2.1_9_hu83311017bdd8bce3818e5b0edc59ee86_106920_b64423f63e4a442de523528434d15995.webp 400w,
+               /post/writing-technical-content2/image/2.1_9_hu83311017bdd8bce3818e5b0edc59ee86_106920_1aa0a2731f6dd60db9b46c19ca8665ae.webp 760w,
+               /post/writing-technical-content2/image/2.1_9_hu83311017bdd8bce3818e5b0edc59ee86_106920_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/post/writing-technical-content2/image/2.1_9_hu83311017bdd8bce3818e5b0edc59ee86_106920_b64423f63e4a442de523528434d15995.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;478&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;персонализация-сети&#34;&gt;Персонализация сети.&lt;/h2&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Куки хранят &#34; srcset=&#34;
+               /post/writing-technical-content2/image/2.2_1_hubae55b7032899a933b6396acac1bd5ec_112959_4ec0763363110d8dad7aa72fa7ddefa8.webp 400w,
+               /post/writing-technical-content2/image/2.2_1_hubae55b7032899a933b6396acac1bd5ec_112959_ae51712bce1c09ddaa6117be5e94960f.webp 760w,
+               /post/writing-technical-content2/image/2.2_1_hubae55b7032899a933b6396acac1bd5ec_112959_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/post/writing-technical-content2/image/2.2_1_hubae55b7032899a933b6396acac1bd5ec_112959_4ec0763363110d8dad7aa72fa7ddefa8.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;480&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Куки не используются&#34; srcset=&#34;
+               /post/writing-technical-content2/image/2.2_2_hu4e0636711404536a6a78f61f1e89a174_87538_fdf52afd9c7b2caef4e8eba56cfd8ee7.webp 400w,
+               /post/writing-technical-content2/image/2.2_2_hu4e0636711404536a6a78f61f1e89a174_87538_ed73374cc814b51e12425d4f0c694b18.webp 760w,
+               /post/writing-technical-content2/image/2.2_2_hu4e0636711404536a6a78f61f1e89a174_87538_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/post/writing-technical-content2/image/2.2_2_hu4e0636711404536a6a78f61f1e89a174_87538_fdf52afd9c7b2caef4e8eba56cfd8ee7.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;445&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Куки генерируются&#34; srcset=&#34;
+               /post/writing-technical-content2/image/2.2_3_hub4a440dc876f39ac3b43260f978d2bb2_55858_967c2a2089b48f455cbae6605e887fd0.webp 400w,
+               /post/writing-technical-content2/image/2.2_3_hub4a440dc876f39ac3b43260f978d2bb2_55858_fcf83f89c5840f8f3b59a9975bd6e6c2.webp 760w,
+               /post/writing-technical-content2/image/2.2_3_hub4a440dc876f39ac3b43260f978d2bb2_55858_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/post/writing-technical-content2/image/2.2_3_hub4a440dc876f39ac3b43260f978d2bb2_55858_967c2a2089b48f455cbae6605e887fd0.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;471&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Сессионные куки&#34; srcset=&#34;
+               /post/writing-technical-content2/image/2.2_4_hue639fa2ab0a225c4360f3344d7917c76_81756_79184086f6ec4acf341a2d775e14660f.webp 400w,
+               /post/writing-technical-content2/image/2.2_4_hue639fa2ab0a225c4360f3344d7917c76_81756_c297a714f08c92c8eb9f4926ddb893cb.webp 760w,
+               /post/writing-technical-content2/image/2.2_4_hue639fa2ab0a225c4360f3344d7917c76_81756_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/post/writing-technical-content2/image/2.2_4_hue639fa2ab0a225c4360f3344d7917c76_81756_79184086f6ec4acf341a2d775e14660f.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;397&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;браузер-tor-анимация&#34;&gt;Браузер TOR. Анимация.&lt;/h2&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Промежуточные узлы TOR &#34; srcset=&#34;
+               /post/writing-technical-content2/image/2.3_1_hue96c7fed5a3a88e1e632d1466b6f930c_65803_5ea8bf7382a88ceecde71f117f30816a.webp 400w,
+               /post/writing-technical-content2/image/2.3_1_hue96c7fed5a3a88e1e632d1466b6f930c_65803_f6fbc48b40b7c02725546793dff1d272.webp 760w,
+               /post/writing-technical-content2/image/2.3_1_hue96c7fed5a3a88e1e632d1466b6f930c_65803_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/post/writing-technical-content2/image/2.3_1_hue96c7fed5a3a88e1e632d1466b6f930c_65803_5ea8bf7382a88ceecde71f117f30816a.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;437&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Браузер TOR&#34; srcset=&#34;
+               /post/writing-technical-content2/image/2.3_2_hu850db745211a8c1313f94e9d54b85b9a_119490_4cf57261decd05b908aefccc3c086d78.webp 400w,
+               /post/writing-technical-content2/image/2.3_2_hu850db745211a8c1313f94e9d54b85b9a_119490_9273ff6503788d207c39b7023f1f15b7.webp 760w,
+               /post/writing-technical-content2/image/2.3_2_hu850db745211a8c1313f94e9d54b85b9a_119490_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/post/writing-technical-content2/image/2.3_2_hu850db745211a8c1313f94e9d54b85b9a_119490_4cf57261decd05b908aefccc3c086d78.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;465&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Секретный ключ&#34; srcset=&#34;
+               /post/writing-technical-content2/image/2.3_3_huf491bfbd532c25c9ba6897134957e308_96747_84fbe8101279f972cf517c4d2fa8f9fb.webp 400w,
+               /post/writing-technical-content2/image/2.3_3_huf491bfbd532c25c9ba6897134957e308_96747_3a67f0034b1bcbb8d53c9db28437b381.webp 760w,
+               /post/writing-technical-content2/image/2.3_3_huf491bfbd532c25c9ba6897134957e308_96747_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/post/writing-technical-content2/image/2.3_3_huf491bfbd532c25c9ba6897134957e308_96747_84fbe8101279f972cf517c4d2fa8f9fb.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;417&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Браузер TOR&#34; srcset=&#34;
+               /post/writing-technical-content2/image/2.3_4_hu0d82f5ef231a12d3bf104841d24216d1_97640_0eba26d0f57295cfb09ccca21e8d76d7.webp 400w,
+               /post/writing-technical-content2/image/2.3_4_hu0d82f5ef231a12d3bf104841d24216d1_97640_ffec28bef7f4ee38557bfc3cdecbf7d9.webp 760w,
+               /post/writing-technical-content2/image/2.3_4_hu0d82f5ef231a12d3bf104841d24216d1_97640_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/post/writing-technical-content2/image/2.3_4_hu0d82f5ef231a12d3bf104841d24216d1_97640_0eba26d0f57295cfb09ccca21e8d76d7.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;408&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;беспроводные-сети-wi-fi&#34;&gt;Беспроводные сети. Wi-Fi&lt;/h2&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Wi-Fi&#34; srcset=&#34;
+               /post/writing-technical-content2/image/2.4_1_hubb7b325d19107275d373a5207170ad86_88409_c58b13bc77ed6e8b8164b259cd8b6378.webp 400w,
+               /post/writing-technical-content2/image/2.4_1_hubb7b325d19107275d373a5207170ad86_88409_9dededbc7abd1b8cf957c19622f58562.webp 760w,
+               /post/writing-technical-content2/image/2.4_1_hubb7b325d19107275d373a5207170ad86_88409_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/post/writing-technical-content2/image/2.4_1_hubb7b325d19107275d373a5207170ad86_88409_c58b13bc77ed6e8b8164b259cd8b6378.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;391&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Протокол Wi-Fi&#34; srcset=&#34;
+               /post/writing-technical-content2/image/2.4_2_hua293e6296d5a5f33d0eaff83ae3ae0be_95571_698bc55a0778bd5a8b6587a875ccf0e9.webp 400w,
+               /post/writing-technical-content2/image/2.4_2_hua293e6296d5a5f33d0eaff83ae3ae0be_95571_f802d8b50cddf4a654aca242adb599b6.webp 760w,
+               /post/writing-technical-content2/image/2.4_2_hua293e6296d5a5f33d0eaff83ae3ae0be_95571_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/post/writing-technical-content2/image/2.4_2_hua293e6296d5a5f33d0eaff83ae3ae0be_95571_698bc55a0778bd5a8b6587a875ccf0e9.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;381&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Шифрование Wi-Fi&#34; srcset=&#34;
+               /post/writing-technical-content2/image/2.4_3_hu4f52d247750259c2d4cfceffba9a64c6_84911_b3328ba04084ce681562402971a456a2.webp 400w,
+               /post/writing-technical-content2/image/2.4_3_hu4f52d247750259c2d4cfceffba9a64c6_84911_6b8b8769a43221cea3ffead43fc3dde2.webp 760w,
+               /post/writing-technical-content2/image/2.4_3_hu4f52d247750259c2d4cfceffba9a64c6_84911_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/post/writing-technical-content2/image/2.4_3_hu4f52d247750259c2d4cfceffba9a64c6_84911_b3328ba04084ce681562402971a456a2.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;445&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Передача данных между хостом сети и роутером&#34; srcset=&#34;
+               /post/writing-technical-content2/image/2.4_4_hu7c8242a8c405c40e4d75720e5bcd3831_79939_282ee6a2fe8080da565ad4aef2a0e30f.webp 400w,
+               /post/writing-technical-content2/image/2.4_4_hu7c8242a8c405c40e4d75720e5bcd3831_79939_68965ac65bb11383c0642f163f843872.webp 760w,
+               /post/writing-technical-content2/image/2.4_4_hu7c8242a8c405c40e4d75720e5bcd3831_79939_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/post/writing-technical-content2/image/2.4_4_hu7c8242a8c405c40e4d75720e5bcd3831_79939_282ee6a2fe8080da565ad4aef2a0e30f.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;474&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Домашняя сеть для аутентификации&#34; srcset=&#34;
+               /post/writing-technical-content2/image/2.4_5_hu96cc163e5027700f4d5c0ae3b5b0c3fb_71535_8ad9b4788be67d94bdd623bad2b74402.webp 400w,
+               /post/writing-technical-content2/image/2.4_5_hu96cc163e5027700f4d5c0ae3b5b0c3fb_71535_bb7081dd3b2bd3e02fd8cd5c6340267d.webp 760w,
+               /post/writing-technical-content2/image/2.4_5_hu96cc163e5027700f4d5c0ae3b5b0c3fb_71535_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/post/writing-technical-content2/image/2.4_5_hu96cc163e5027700f4d5c0ae3b5b0c3fb_71535_8ad9b4788be67d94bdd623bad2b74402.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;466&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h1 id=&#34;выводы&#34;&gt;Выводы&lt;/h1&gt;
+&lt;p&gt;Мы узнали о правилах безопасности в сети.&lt;/p&gt;
+&lt;p&gt;Сертификат не выдается.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Окончание курса&#34; srcset=&#34;
+               /post/writing-technical-content2/image/3_hue818bdd475dd890c0ea77e6498be4622_62202_5b2c6d839e7076a49eee2f0cbc3f956a.webp 400w,
+               /post/writing-technical-content2/image/3_hue818bdd475dd890c0ea77e6498be4622_62202_55e90f6ec90615ea43e6def04beaa8bd.webp 760w,
+               /post/writing-technical-content2/image/3_hue818bdd475dd890c0ea77e6498be4622_62202_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/post/writing-technical-content2/image/3_hue818bdd475dd890c0ea77e6498be4622_62202_5b2c6d839e7076a49eee2f0cbc3f956a.webp&#34;
+               width=&#34;670&#34;
+               height=&#34;521&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+:::&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Внешний курс - Третий этап</title>
+      <link>https://example.com/post/writing-technical-content3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/writing-technical-content3/</guid>
+      <description>&lt;h1 id=&#34;цель-работы&#34;&gt;Цель работы&lt;/h1&gt;
+&lt;p&gt;Изучить основы кибербезопасности&lt;/p&gt;
+&lt;h1 id=&#34;защита-пктелефона&#34;&gt;Защита ПК/телефона&lt;/h1&gt;
+&lt;h2 id=&#34;шифрование-диска&#34;&gt;Шифрование диска&lt;/h2&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Загрузочный сектор диска&#34; srcset=&#34;
+               /post/writing-technical-content3/image/3.1_1_hu706d1135cd8943e6d50dc6559fb3e475_38058_84180522936f0e8e9ec68adc4f5c0c3a.webp 400w,
+               /post/writing-technical-content3/image/3.1_1_hu706d1135cd8943e6d50dc6559fb3e475_38058_27742a83c364ba95be4de8c8ca0353b8.webp 760w,
+               /post/writing-technical-content3/image/3.1_1_hu706d1135cd8943e6d50dc6559fb3e475_38058_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/post/writing-technical-content3/image/3.1_1_hu706d1135cd8943e6d50dc6559fb3e475_38058_84180522936f0e8e9ec68adc4f5c0c3a.webp&#34;
+               width=&#34;663&#34;
+               height=&#34;532&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Шифрование диска&#34; srcset=&#34;
+               /post/writing-technical-content3/image/3.1_2_hu68c41c9d61aa77f4b40c568665961678_44857_8b6292586f9cd68c01d36e39be3aa74a.webp 400w,
+               /post/writing-technical-content3/image/3.1_2_hu68c41c9d61aa77f4b40c568665961678_44857_cb48478a8a60c420e2598693283c503f.webp 760w,
+               /post/writing-technical-content3/image/3.1_2_hu68c41c9d61aa77f4b40c568665961678_44857_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/post/writing-technical-content3/image/3.1_2_hu68c41c9d61aa77f4b40c568665961678_44857_8b6292586f9cd68c01d36e39be3aa74a.webp&#34;
+               width=&#34;668&#34;
+               height=&#34;556&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Жесткий диск&#34; srcset=&#34;
+               /post/writing-technical-content3/image/3.1_3_huf5cb71853f6f45c3f87c91bc3e280abd_61572_5a138d3e0a09de172c2bc132f5cae75c.webp 400w,
+               /post/writing-technical-content3/image/3.1_3_huf5cb71853f6f45c3f87c91bc3e280abd_61572_4da22e3726e5b1e6b6252de36530f992.webp 760w,
+               /post/writing-technical-content3/image/3.1_3_huf5cb71853f6f45c3f87c91bc3e280abd_61572_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/post/writing-technical-content3/image/3.1_3_huf5cb71853f6f45c3f87c91bc3e280abd_61572_5a138d3e0a09de172c2bc132f5cae75c.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;586&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;пароли&#34;&gt;Пароли&lt;/h2&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Пароли&#34; srcset=&#34;
+               /post/writing-technical-content3/image/3.2_1_huee2311ec5c4a1d1bb6aa1b8fa9d80fb2_42517_ce3f5516b3ff1e0eea2d922515489066.webp 400w,
+               /post/writing-technical-content3/image/3.2_1_huee2311ec5c4a1d1bb6aa1b8fa9d80fb2_42517_660f915728fe2666891e497b197d112d.webp 760w,
+               /post/writing-technical-content3/image/3.2_1_huee2311ec5c4a1d1bb6aa1b8fa9d80fb2_42517_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/post/writing-technical-content3/image/3.2_1_huee2311ec5c4a1d1bb6aa1b8fa9d80fb2_42517_ce3f5516b3ff1e0eea2d922515489066.webp&#34;
+               width=&#34;611&#34;
+               height=&#34;567&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Хранение паролей&#34; srcset=&#34;
+               /post/writing-technical-content3/image/3.2_2_huc995e5dd8c3812b8d2f765d48527944f_50711_5041445c727017e0d0f1eaa0b77fff55.webp 400w,
+               /post/writing-technical-content3/image/3.2_2_huc995e5dd8c3812b8d2f765d48527944f_50711_00bc483ccbc635ed8bbdfd060848a664.webp 760w,
+               /post/writing-technical-content3/image/3.2_2_huc995e5dd8c3812b8d2f765d48527944f_50711_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/post/writing-technical-content3/image/3.2_2_huc995e5dd8c3812b8d2f765d48527944f_50711_5041445c727017e0d0f1eaa0b77fff55.webp&#34;
+               width=&#34;613&#34;
+               height=&#34;615&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Капча&#34; srcset=&#34;
+               /post/writing-technical-content3/image/3.2_3_hu15242f6b370e4d01a13c753f6d9bfdcc_58838_6688feef5d6683bf62cd0fc5c9df6a87.webp 400w,
+               /post/writing-technical-content3/image/3.2_3_hu15242f6b370e4d01a13c753f6d9bfdcc_58838_f928e6c5dd877e2405e4247581ca9325.webp 760w,
+               /post/writing-technical-content3/image/3.2_3_hu15242f6b370e4d01a13c753f6d9bfdcc_58838_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/post/writing-technical-content3/image/3.2_3_hu15242f6b370e4d01a13c753f6d9bfdcc_58838_6688feef5d6683bf62cd0fc5c9df6a87.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;458&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Хэширование паролей&#34; srcset=&#34;
+               /post/writing-technical-content3/image/3.2_4_hu9a4f422b7b4cdaba25b0aa49fb32e0f7_55227_b92a86221053b818da11027c0ba6495f.webp 400w,
+               /post/writing-technical-content3/image/3.2_4_hu9a4f422b7b4cdaba25b0aa49fb32e0f7_55227_e242d865db0c82ef5799e5fc319d5012.webp 760w,
+               /post/writing-technical-content3/image/3.2_4_hu9a4f422b7b4cdaba25b0aa49fb32e0f7_55227_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/post/writing-technical-content3/image/3.2_4_hu9a4f422b7b4cdaba25b0aa49fb32e0f7_55227_b92a86221053b818da11027c0ba6495f.webp&#34;
+               width=&#34;675&#34;
+               height=&#34;590&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Стойкость паролей&#34; srcset=&#34;
+               /post/writing-technical-content3/image/3.2_5_hu2f4af3188ec2e35fa30943b4e078c88a_52229_301f92abc0492633f103a7572f3f702c.webp 400w,
+               /post/writing-technical-content3/image/3.2_5_hu2f4af3188ec2e35fa30943b4e078c88a_52229_2f8362f2a6978661ccb4113a4add396d.webp 760w,
+               /post/writing-technical-content3/image/3.2_5_hu2f4af3188ec2e35fa30943b4e078c88a_52229_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/post/writing-technical-content3/image/3.2_5_hu2f4af3188ec2e35fa30943b4e078c88a_52229_301f92abc0492633f103a7572f3f702c.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;373&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Меры защиты паролей&#34; srcset=&#34;
+               /post/writing-technical-content3/image/3.2_6_hu4644327ac2412be023e59f99134447de_65994_d8b00873d377941a0dcf55e66a537952.webp 400w,
+               /post/writing-technical-content3/image/3.2_6_hu4644327ac2412be023e59f99134447de_65994_8b2da847cab89301d741f009e914077e.webp 760w,
+               /post/writing-technical-content3/image/3.2_6_hu4644327ac2412be023e59f99134447de_65994_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/post/writing-technical-content3/image/3.2_6_hu4644327ac2412be023e59f99134447de_65994_d8b00873d377941a0dcf55e66a537952.webp&#34;
+               width=&#34;693&#34;
+               height=&#34;656&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;фишинг&#34;&gt;Фишинг&lt;/h2&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Фишинговые ссылки&#34; srcset=&#34;
+               /post/writing-technical-content3/image/3.3_1_hudb554a37588d7bb19df8476e2b9bf486_91797_da388cf56cc7eef515ffcefcf164f151.webp 400w,
+               /post/writing-technical-content3/image/3.3_1_hudb554a37588d7bb19df8476e2b9bf486_91797_ae015526c476705930a9b1c480467730.webp 760w,
+               /post/writing-technical-content3/image/3.3_1_hudb554a37588d7bb19df8476e2b9bf486_91797_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/post/writing-technical-content3/image/3.3_1_hudb554a37588d7bb19df8476e2b9bf486_91797_da388cf56cc7eef515ffcefcf164f151.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;523&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Фишинговый имейл&#34; srcset=&#34;
+               /post/writing-technical-content3/image/3.3_2_huba06c7f547915b6bd95f00ac71a0c947_36674_3cb9c180a8b6def913cd0fb034861327.webp 400w,
+               /post/writing-technical-content3/image/3.3_2_huba06c7f547915b6bd95f00ac71a0c947_36674_61eb4e3219cc4261eab18938cadbe927.webp 760w,
+               /post/writing-technical-content3/image/3.3_2_huba06c7f547915b6bd95f00ac71a0c947_36674_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/post/writing-technical-content3/image/3.3_2_huba06c7f547915b6bd95f00ac71a0c947_36674_3cb9c180a8b6def913cd0fb034861327.webp&#34;
+               width=&#34;567&#34;
+               height=&#34;521&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;вирусыпримеры&#34;&gt;Вирусы.Примеры&lt;/h2&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Спуфинг&#34; srcset=&#34;
+               /post/writing-technical-content3/image/3.4_1_hu13d41e4d26c4f6e99ad151abaca80311_48638_2cc7d7244b334990a14e66f2e6245fcc.webp 400w,
+               /post/writing-technical-content3/image/3.4_1_hu13d41e4d26c4f6e99ad151abaca80311_48638_c0a070381c1b1d725dc7d03422cc8a22.webp 760w,
+               /post/writing-technical-content3/image/3.4_1_hu13d41e4d26c4f6e99ad151abaca80311_48638_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/post/writing-technical-content3/image/3.4_1_hu13d41e4d26c4f6e99ad151abaca80311_48638_2cc7d7244b334990a14e66f2e6245fcc.webp&#34;
+               width=&#34;625&#34;
+               height=&#34;582&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Вирус-троян&#34; srcset=&#34;
+               /post/writing-technical-content3/image/3.4_2_hu9102e999fe2e25746b6eb5864f8952ac_51372_a2802f9071c919d5d512142421450e61.webp 400w,
+               /post/writing-technical-content3/image/3.4_2_hu9102e999fe2e25746b6eb5864f8952ac_51372_9caec5cef442a57016870e5d200354a8.webp 760w,
+               /post/writing-technical-content3/image/3.4_2_hu9102e999fe2e25746b6eb5864f8952ac_51372_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/post/writing-technical-content3/image/3.4_2_hu9102e999fe2e25746b6eb5864f8952ac_51372_a2802f9071c919d5d512142421450e61.webp&#34;
+               width=&#34;633&#34;
+               height=&#34;597&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;безопасность-мессенджеров&#34;&gt;Безопасность мессенджеров&lt;/h2&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Мессенджер Signal&#34; srcset=&#34;
+               /post/writing-technical-content3/image/3.5_1_hubcf7c4147474af68d2565b155f1a466a_58961_19b3a670a62fbed93279c6d791bfec9a.webp 400w,
+               /post/writing-technical-content3/image/3.5_1_hubcf7c4147474af68d2565b155f1a466a_58961_7f59cb8a3163c8177327ee6bd2cf9dfe.webp 760w,
+               /post/writing-technical-content3/image/3.5_1_hubcf7c4147474af68d2565b155f1a466a_58961_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/post/writing-technical-content3/image/3.5_1_hubcf7c4147474af68d2565b155f1a466a_58961_19b3a670a62fbed93279c6d791bfec9a.webp&#34;
+               width=&#34;759&#34;
+               height=&#34;579&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Сквозное шифрование&#34; srcset=&#34;
+               /post/writing-technical-content3/image/3.5_2_hu73563470ef14252f5c22a0c66f8fb76e_17348_8dddaa8838bdf5b63e70b7d29c734d02.webp 400w,
+               /post/writing-technical-content3/image/3.5_2_hu73563470ef14252f5c22a0c66f8fb76e_17348_20b1612c450e242e56b34031d53b9aa0.webp 760w,
+               /post/writing-technical-content3/image/3.5_2_hu73563470ef14252f5c22a0c66f8fb76e_17348_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/post/writing-technical-content3/image/3.5_2_hu73563470ef14252f5c22a0c66f8fb76e_17348_8dddaa8838bdf5b63e70b7d29c734d02.webp&#34;
+               width=&#34;320&#34;
+               height=&#34;289&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h1 id=&#34;выводы&#34;&gt;Выводы&lt;/h1&gt;
+&lt;p&gt;Мы узнали о защите ПК/телефона.&lt;/p&gt;
+&lt;p&gt;Сертификат не выдается.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Окончание курса&#34; srcset=&#34;
+               /post/writing-technical-content3/image/5_hue818bdd475dd890c0ea77e6498be4622_62202_de9ae643cfa4395978913f535e2f09fc.webp 400w,
+               /post/writing-technical-content3/image/5_hue818bdd475dd890c0ea77e6498be4622_62202_eb2925da3959fd17306d55f8339ab2e4.webp 760w,
+               /post/writing-technical-content3/image/5_hue818bdd475dd890c0ea77e6498be4622_62202_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/post/writing-technical-content3/image/5_hue818bdd475dd890c0ea77e6498be4622_62202_de9ae643cfa4395978913f535e2f09fc.webp&#34;
+               width=&#34;670&#34;
+               height=&#34;521&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
 </description>
     </item>
     
